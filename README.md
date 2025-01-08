@@ -676,13 +676,13 @@ This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+For any questions or issues, please contact [jaykrinapatel@gmail.com](mailto:jaykrinapatel@gmail.com).
 
 ---
 
 Thank you for checking out the **Employee Management Full-Stack Application!** Feel free to use this project for your own learning or development purposes.
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
+Created with ❤️ by [Jay Patel](https://github.com/jaypatel0112) in 2024.
 
 ---
 
