@@ -1,5 +1,5 @@
+import { Box, Container, Grid, Link, Typography } from '@mui/material';
 import React from 'react';
-import { Box, Container, Grid, Typography, Link } from '@mui/material';
 
 const Footer = () => {
   return (
@@ -63,14 +63,14 @@ const Footer = () => {
             </Typography>
             <Typography variant="body2">
               Project Maintainer:{' '}
-              <Link href="https://github.com/hoangsonww" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
-                Son Nguyen
+              <Link href="https://github.com/jaypatel0112" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
+                Jay Patel
               </Link>
             </Typography>
             <Typography variant="body2">
               Email:{' '}
-              <Link href="mailto:hoangson091104@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
-                hoangson091104@gmail.com
+              <Link href="mailto:jaykrinapatel@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
+                jaykrinapatel@gmail.com
               </Link>
             </Typography>
             <Typography variant="body2">Phone: +1 (123) 456-7890</Typography>
