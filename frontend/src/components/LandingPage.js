@@ -1,5 +1,5 @@
+import { Box, Button, Card, CardContent, Container, Grid, Typography, useMediaQuery } from '@mui/material';
 import React from 'react';
-import { Box, Typography, Button, Container, Grid, Card, CardContent, useMediaQuery } from '@mui/material';
 import { Link } from 'react-router-dom';
 
 const LandingPage = () => {
@@ -197,7 +197,7 @@ const LandingPage = () => {
             Visit our documentation to learn more about the features, functionalities, and how to get started with our Employee Management System.
           </Typography>
           <Button
-            href="https://github.com/hoangsonww/Employee-Management-Fullstack-App"
+            href="https://github.com/jaypatel0112/EmployeeManagmentSystem"
             target="_blank"
             variant="contained"
             sx={{
