@@ -62,8 +62,8 @@ employee-management-app
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
-cd Employee-Management/frontend
+git clone https://github.com/jaypatel0112/EmployeeManagmentSystem.git
+cd EmployeeManagmentSystem/frontend
 ```
 
 ### 2. Install Dependencies
@@ -156,4 +156,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+For any questions or issues, please contact [jaykrinapatel@gmail.com](mailto:jaykrinapatel@gmail.com).
