@@ -2,14 +2,14 @@
   "name": "employee-management-system-frontend",
   "displayName": "Employee Management System Frontend",
   "version": "1.1.0",
-  "author": "Son Nguyen",
+  "author": "Jay Patel",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoangsonww/Employee-Management-Fullstack-App.git"
+    "url": "git+https://github.com/jaypatel0112/EmployeeManagmentSystem.git"
   },
   "bugs": {
-    "url": "https://github.com/hoangsonww/Employee-Management-Fullstack-App/issues"
+    "url": "https://github.com/jaypatel0112/EmployeeManagmentSystem/issues"
   },
   "homepage": "/",
   "description": "The frontend of the Employee Management Fullstack App",
